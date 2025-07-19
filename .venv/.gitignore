@@ -1,0 +1,10 @@
+# Logs
+password_generator_log.txt
+
+# Sensitive data
+secret.key
+passwords.db
+
+# Python cache
+__pycache__/
+*.pyc
